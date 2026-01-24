@@ -12,6 +12,7 @@ body
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+     background-attachment: fixed;
     height: 100vh;
     margin: 0;
     background-color: rgba(6, 30, 252, 0.555);
@@ -455,3 +456,4 @@ header h3
 }
 
 }
+
